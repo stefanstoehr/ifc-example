@@ -13,6 +13,28 @@ Do you know, what’s up with the geometry?
 
 The IFC-file was exported from Autodesk Civil 3D.
 
-☕ thx stefan
+### :camera_flash: Screenshot:
+![Screenshot "engine_components"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie1.PNG)
 
-https://github.com/stefanstoehr/ifc-example/tree/3892a3f5043fda98648ca9c564895d8d31fd9e8f/broken_vs_perfect/Folie1.PNG
+### :camera_flash: Screenshot:
+![Screenshot "platform_ThatOpen"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie2.PNG)
+
+### :camera_flash: Screenshot:
+![Screenshot "engine_web-ifc"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie3.PNG)
+
+### :camera_flash: Screenshot:
+![Screenshot "BIMcollab Zoom"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie4.PNG)
+
+### :camera_flash: Screenshot:
+![Screenshot "BlenderBIM"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie5.PNG)
+
+### :camera_flash: Screenshot:
+![Screenshot "PlanTeam-Space"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie6.PNG)
+
+### :camera_flash: Screenshot:
+![Screenshot "KIT Model Viewer"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie7.PNG)
+
+### :camera_flash: Screenshot:
+![Screenshot "Desite md pro"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie8.PNG)
+
+☕ stefan
