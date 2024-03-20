@@ -12,3 +12,5 @@ I have an IFC-file, which geometry appears
 Do you know, what’s up with the geometry?
 
 The IFC-file was exported from Autodesk Civil 3D.
+
+☕ thx stefan
