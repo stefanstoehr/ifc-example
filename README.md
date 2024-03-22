@@ -1,5 +1,5 @@
-# ifc-example
-IFC-Exampl File for Investigations: https://people.thatopen.com/c/ask-the-community/ifc-geometry-vs
+# ifc-example for geometry-investigations
+IFC-example File for Investigations: https://people.thatopen.com/c/ask-the-community/ifc-geometry-vs
 
 # IFC-Geometry: ❌ vs ✔️
 
@@ -36,5 +36,8 @@ The IFC-file was exported from Autodesk Civil 3D.
 
 ### :camera_flash: Screenshot:
 ![Screenshot "Desite md pro"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie8.PNG)
+
+### :camera_flash: Screenshot:
+![Screenshot "engine_components 22.3.2024"](https://github.com/stefanstoehr/ifc-example/blob/65a8d087e508e363c2835a5438c6402036f57c12/broken_vs_perfect/Folie9.png)
 
 ☕ stefan
